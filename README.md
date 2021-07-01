@@ -1,4 +1,3 @@
-### Hi there 
 ### Hi there, I'm Oytun DİNÇ 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oytundinc/)
@@ -19,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=oytundinc.oytundinc)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oytundinc&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
